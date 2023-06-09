@@ -175,7 +175,7 @@ public class Silly implements Comparable<Silly>{
             return true;
         }else{
             return false;
-    }
+    }}
 
     /**
      * 5. If we want to compare two objects, we have to do two things:
